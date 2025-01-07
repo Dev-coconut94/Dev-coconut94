@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Gyubin's%20Github&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Github!!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=37&pause=1000&center=true&vCenter=true&random=true&width=900&height=150&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <!--
 **Dev-coconut94/Dev-coconut94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
