@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=37&pause=1000&center=true&vCenter=true&random=true&width=900&height=150&lines=Welcome!!)](https://git.io/typing-svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-coconut94&layout=compact)
+
+
 <!--
 **Dev-coconut94/Dev-coconut94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
