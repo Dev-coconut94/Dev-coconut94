@@ -10,10 +10,15 @@
 |내용|기간|
 |------|---|
 |[(주)디아이티](http://www.dit.co.kr/)|2020/12 - 2025/05|
-|[주식회사 지아이컴퍼니]|2019/11 - 2020/11|
+|[주식회사 지아이컴퍼니]()|~~2019/11 - 2020/11~~|
 |[의료법인우암병원](https://wooammc.com/web/)|2018/02 - 2019/03|
-|[남부대학교](https://nambu.ac.kr/) IT디자인학과 학사|2012/03 - 2018/08|
 
+### 🎓 Education
+
+> **[남부대학교](https://nambu.ac.kr/)**
+> <br>
+> ![Major](https://img.shields.io/badge/Major-IT_Design-blueviolet?style=flat-square&logo=bookstack)
+> ![Period](https://img.shields.io/badge/Period-2012.03_--_2018.08-blueviolet?style=flat-square)
 ## 
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fechoja&label=View&icon=grip-horizontal&color=%23feb272)
