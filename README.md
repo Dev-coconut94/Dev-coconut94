@@ -23,4 +23,4 @@
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fechoja&label=View&icon=grip-horizontal&color=%23feb272)
 
-최근 업데이트: 2025/11/25
+최근 업데이트: 2025/11/26
