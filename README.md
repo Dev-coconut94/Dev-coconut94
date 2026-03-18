@@ -1,26 +1,26 @@
-## 안녕하세요 🍀
+# Dev-coconut94
 
-- 그래도 Readme는 있어야겠지. 
-- 여기엔 나의 소개를 적어보자. 
-- 나는 7년차 물경력 개발자이다. 
-- 흐지부지 아무것도 제대로 된 결과를 내지 못했던 과거를 이제서야 '무엇'을 남겨보려고한다. 
-- 정량적으로, 생산적으로, 도전적으로, xxxx........
+AI 자동화, 업무 도구, 실험을 정리하고 있습니다.
 
-##  소속들
-|내용|기간|
-|------|---|
-|[(주)디아이티](http://www.dit.co.kr/)|2020/12 - 2025/05|
-|[주식회사 지아이컴퍼니]()|2019/11 - 2020/11|
-|[의료법인우암병원](https://wooammc.com/web/)|2018/02 - 2019/03|
+## Links
 
-### 🎓 Education
+- Portfolio: [dev-coconut94.github.io](https://dev-coconut94.github.io/)
+- Projects: [github.com/Dev-coconut94](https://github.com/Dev-coconut94?tab=repositories)
 
-> **[남부대학교](https://nambu.ac.kr/)**
-> <br>
-> ![Major](https://img.shields.io/badge/Major-IT_Design-blueviolet?style=flat-square&logo=bookstack)
-> ![Period](https://img.shields.io/badge/Period-2012.03_--_2018.08-blueviolet?style=flat-square)
-## 
+## Focus
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fechoja&label=View&icon=grip-horizontal&color=%23feb272)
+- AI workflow and automation
+- Internal tools and utility apps
+- Study repositories that are still actively maintained
 
-최근 업데이트: 2025/11/26
+## Featured Repositories
+
+- [Dev-coconut94.github.io](https://github.com/Dev-coconut94/Dev-coconut94.github.io)
+- [claude-workspace](https://github.com/Dev-coconut94/claude-workspace)
+- [productive-box](https://github.com/Dev-coconut94/productive-box)
+- [Algorithm-Practice](https://github.com/Dev-coconut94/Algorithm-Practice)
+- [Web-Development-Study](https://github.com/Dev-coconut94/Web-Development-Study)
+
+## Note
+
+오래된 학습용 저장소와 과거 공개 실험 저장소는 순차적으로 archive 하면서, 현재 보여 줄 가치가 있는 저장소 중심으로 정리하고 있습니다.
